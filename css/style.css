@@ -1,0 +1,65 @@
+h3 {
+	color: rgb(57, 34, 120); 
+	font-size: 175%;
+	font-family:"Segoe UI", Tahoma, Arial, sans-serif;
+}
+
+body {
+	background-color: rgb(55, 62, 69);
+}
+
+#menu{
+    text-align: center;
+	background-color: rgb(79, 64, 115);
+}
+
+#menu-2{
+    text-align: center;
+	background-color: rgb(255, 255, 255);
+}
+
+#logo{
+    max-width: 128px;
+    max-height: 85px;
+}
+
+.content{
+    text-align: left;
+ background-color: rgb(255, 255, 255);
+ font-family:"Comic Sans MS", "Segoe UI", Tahoma, Arial, sans-serif;
+}
+
+.img{
+    max-width: 256px;
+    max-height: 256px;
+}
+
+.video{
+    min-width: 560px;
+    min-height: 315px;
+}
+
+#teste{
+	padding: 10px 0px 0px;
+}
+
+.icon{
+    max-width: 64px;
+    max-height: 64px;
+}
+
+.card{
+	align-items: center;
+	max-width: 50em;
+	background-color: rgb(100, 100, 100);
+	padding: 10px;
+}
+
+.container-fluid{
+	padding: 10px;
+}
+
+#poster{
+    max-width: 256px;
+    max-height: 365px;
+}
